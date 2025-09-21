@@ -1,24 +1,13 @@
 {
-  "name": "Mila Token",
+  "name": "Mila",
   "symbol": "MILA",
-  "description": "Mila is a community-driven meme token on Solana.",
-  "image": "https://raw.githubusercontent.com/<KULLANICI_ADIN>/Mila-token/main/logo.png",
-  "external_url": "https://mila-token.github.io",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/<KULLANICI_ADIN>/Mila-token/main/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "5NW1QK8YW2ZdJQgnPjar5w1seVfmZRNbUGU4vEDBSH6j",
-        "share": 100
-      }
-    ]
+  "decimals": 9,
+  "mint": "5NW1QK7s1TwthffxdP3YLnEGobq12DXmQvUVPDB5p9xw",
+  "logoURI": "https://raw.githubusercontent.com/alpercument/Mila-token/main/logo.png",
+  "tags": ["meme", "community"],
+  "extensions": {
+    "website": "https://mila-token.github.io",
+    "twitter": "https://twitter.com/[seninhesap]",
+    "telegram": "https://t.me/milaofficialsol"
   }
 }
