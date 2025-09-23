@@ -3,11 +3,11 @@
   "symbol": "MILA",
   "decimals": 9,
   "mint": "5NW1QK7s1TwthffxdP3YLnEGobq12DXmQvUVPDB5p9xw",
-  "logoURI": "https://raw.githubusercontent.com/alpercument/Mila-token/main/logo.png",
-  "tags": ["meme", "community"],
+  "logoURI": "https://raw.githubusercontent.com/alpercument/Mila-token/main/mila_logo_256.png",
+  "tags": ["meme", "community", "solana"],
   "extensions": {
     "website": "https://mila-token.github.io",
-    "twitter": "https://twitter.com/[seninhesap]",
+    "twitter": "https://twitter.com/milaofficialsol", 
     "telegram": "https://t.me/milaofficialsol"
   }
 }
